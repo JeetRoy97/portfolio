@@ -53,7 +53,6 @@ experience:
     date_end: '2018-04-30'
     description: |2-
         Responsibilities include:
-        
         * Designing and testing android apps
     - title: Project Trainee
     company: InfoCepts
