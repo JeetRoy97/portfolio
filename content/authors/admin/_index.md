@@ -22,7 +22,7 @@ superuser: true
 status:
   icon: ☕️
 title: Prasenjeet Roy
-role: ""
+role: Mtech-PhD AI
 email: roy.2@iitj.ac.in
 ---
 I am Prasenjeet, a research scholar in the Department of CSE, IIT Jodhpur. My research topic is "Query focused multi-document multi-lingual summarization". 
