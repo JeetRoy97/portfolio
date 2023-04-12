@@ -29,11 +29,7 @@ experience:
     location: Jodhpur
     date_start: '2019-07-22'
     date_end: '2022-07-22'
-    description: |2-
-        Responsibilities include:
-        
-        * Making assignments
-        * Conducting tutorials
+    description: Making assignments and conducting tutorials
   - title: Intern | Natural Language Processing
     company: Tata Consultancy Services
     company_url: ''
