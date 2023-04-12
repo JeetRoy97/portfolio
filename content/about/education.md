@@ -27,21 +27,18 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Jodhpur
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
-    description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+    date_start: '2019-07-22'
+    date_end: 'present'
+    description: Grade: 8.29/10
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: B.E., Computer Science
+    company: G.H.RAISONI COLLEGE OF ENGINEERINGG.H.RAISONI COLLEGE OF ENGINEERING
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    date_start: '2014-07-05'
+    date_end: '2018-05-31'
+    description: Grade: 9.83/10
 
 design:
   columns: '1'
