@@ -34,7 +34,6 @@ experience:
         
         * Making assignments
         * Conducting tutorials
-
   - title: Intern | Natural Language Processing
     company: Tata Consultancy Services
     company_url: ''
