@@ -15,6 +15,6 @@ summary: >-
 
   **Evaluation:** Perform a 10-class classification using VGG16 model on cifar10 dataset
 tags:
-  - ML
+  - DependableAI
 external_link: https://github.com/JeetRoy97/Bias-and-Explainability
 ---
