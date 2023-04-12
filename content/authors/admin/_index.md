@@ -4,6 +4,7 @@ role: ""
 superuser: true
 status:
   icon: ☕️
+avatar_filename: 1651872822613.jpg
 bio: My research interests include NLP and Deep Learning.
 social:
   - icon: envelope
