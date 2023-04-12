@@ -32,7 +32,22 @@ item:
     title: Achievers Award
     url: ''
     description: Best Student Award for the session 2014-18
-  
+  - certificate_url: 
+    date_end: ''
+    date_start: '2017-09-08'
+    description: Best Project " Fuel Analysis Dashboard" for the session 2017
+    organization: Infocepts Pvt. Ltd.
+    organization_url: 
+    title: Best Project Award
+    url: 
+  - certificate_url: 
+   date_end: 
+    date_start: '2016-01-22'
+    description: ''
+    organization: Chief Minister of Maharashtra
+    organization_url: 
+    title: Best E-Governance Project Award
+    url: ''
 
 design:
   columns: '1'
