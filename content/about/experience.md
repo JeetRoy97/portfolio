@@ -39,7 +39,7 @@ experience:
     date_end: '2022-07-30'
     description: Designing a multi-document focused abstractive summarization of documents
     
-    - title: Android Developer Intern
+  - title: Android Developer Intern
     company: Hind Softwares Pvt. Ltd.
     company_url: ''
     company_logo: org-gc
@@ -49,7 +49,7 @@ experience:
     description: |2-
         Responsibilities include:
         * Designing and testing android apps
-    - title: Project Trainee
+  - title: Project Trainee
     company: InfoCepts
     company_url: ''
     company_logo: org-gc
