@@ -41,7 +41,7 @@ item:
     title: Best Project Award
     url: 
   - certificate_url: 
-   date_end: 
+    date_end: 
     date_start: '2016-01-22'
     description: ''
     organization: Chief Minister of Maharashtra
