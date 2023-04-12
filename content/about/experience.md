@@ -39,10 +39,34 @@ experience:
     company: Tata Consultancy Services
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Noida (WFH)
     date_start: '2022-05-01'
     date_end: '2022-07-30'
     description: Designing a multi-document focused abstractive summarization of documents
+    
+    - title: Android Developer Intern
+    company: Hind Softwares Pvt. Ltd.
+    company_url: ''
+    company_logo: org-gc
+    location: Nagpur
+    date_start: '2017-11-01'
+    date_end: '2018-04-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Designing and testing android apps
+    - title: Project Trainee
+    company: InfoCepts
+    company_url: ''
+    company_logo: org-gc
+    location: Nagpur
+    date_start: '2017-05-01'
+    date_end: '2018-08-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Pursued final year project on MicroStrategy Business Intelligence
+
 design:
   columns: '1'
 ---
