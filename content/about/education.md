@@ -28,9 +28,9 @@ experience:
     company_logo: org-x
     location: Jodhpur
     date_start: '2019-07-22'
-    date_end: 'present'
+    date_end: ''
     description: Grade: 8.29/10
-
+    
   - title: B.E., Computer Science
     company: G.H.RAISONI COLLEGE OF ENGINEERINGG.H.RAISONI COLLEGE OF ENGINEERING
     company_url: ''
