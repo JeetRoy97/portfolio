@@ -46,7 +46,7 @@ item:
     description: ''
     organization: Chief Minister of Maharashtra
     organization_url: 
-    title: Best E-Governance Project Award
+    title: Best E Governance Project Award
     url: ''
 
 design:
