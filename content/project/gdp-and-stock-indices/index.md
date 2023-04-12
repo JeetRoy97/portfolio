@@ -4,8 +4,9 @@ date: 2023-04-12T17:22:56.553Z
 summary: Predict the GDP indices of
 draft: false
 featured: false
-categories:
+tags:
   - ML
+categories: []
 external_link: https://github.com/JeetRoy97/GDP-and-Stock-Indices
 image:
   filename: featured
